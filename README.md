@@ -12,4 +12,4 @@ The complete analysis is provided in an R Markdown file (`analysis.Rmd`), and th
   - EDA
   - Simulation
   - Analysis
-- `credit_risk.csv': The dataset we use
+- `credit_risk_dataset.csv': The dataset we use
