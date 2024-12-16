@@ -1,6 +1,7 @@
 # Advanced Credit Risk Modeling: Analyzing the Impact of Loan Interest Rate and Borrower’s Percent Income on Loan Default Prediction using Simulation Techniques
 
 1. Project Description
+
 The project investigates the predictors of loan default, focusing on key variables like Loan Interest Rate and Loan Percent Income. The analysis employs advanced statistical methods, including permutation tests, bootstrap resampling, and Monte Carlo simulations, to evaluate the relationship between these predictors and loan default behavior.
 
 The primary objective is to understand the influence of financial stress indicators—measured through predictors like interest rates and income allocation—on loan default risks. This analysis informs financial institutions on risk-based pricing, credit evaluation processes, and targeted intervention strategies, ultimately enhancing credit risk management frameworks.
